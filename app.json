@@ -1,8 +1,8 @@
 {
-  "name": "❄️ SUBZERO MD ❄️",
-  "description": "BOT BY MR FRANK",
-  "logo": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
-  "keywords": ["bot"],
+  "name": "❄️ JOSHKING MD ❄️",
+  "description": "BOT BY MR JOSHUAMAMBO",
+  "logo": "https://i.top4top.io/p_3236rxa990.jpg",
+  "keywords": ["Joshuamambobot"],
   "success_url": "https://github.com/mrfrank-ofc/SUBZERO-MD",
 
     "stack": "container",
@@ -16,19 +16,19 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg"
+      "value": "https://i.top4top.io/p_3236rxa990.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR SUBZERO ONLINE.!!♻️"
+      "value": "HI DEAR Joshuamambo ONLINE.!!♻️"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "#"
     },
     
     "MODE": {
@@ -58,7 +58,7 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "『 ＳＵＢＺＥＲＯ - ＭＤ』"
+      "value": "『 JOSHKING - ＭＤ』"
     }, 
 
     "HEART_REACT": {
