@@ -24,7 +24,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "$",
 // Enter Your Desired Prefix
 
 BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
@@ -48,10 +48,10 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
 DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
 // add bot owner name   
  
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://b.top4top.io/p_3291qwfqu0.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SᴜʙZᴇʀᴏ MD ɪs ᴏɴʟɪɴᴇ*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> [🎐] Joshuamambo1 is online at ⚡",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -60,7 +60,7 @@ READ_MESSAGE: process.env.READ_MESSAGE || "false",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 
-ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words
 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
@@ -69,7 +69,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, SUBZERO-MD viewed your Status🎐*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, Joshuamambo1 viewed your Status🎐*",
 
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
