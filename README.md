@@ -28,7 +28,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 --- 
 
-<a><img src='https://i.ibb.co/fSP7Yr2/mrfrankofc.jpg'/></a>
+<a><img src='https://b.top4top.io/p_3291qwfqu0.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -99,7 +99,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/tanyaMashamba01/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
