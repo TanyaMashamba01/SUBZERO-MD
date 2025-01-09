@@ -1,5 +1,5 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "Joshking01-MD",
   "description": "A rich whatsapp bot by Mr Frank",
   "logo": "https://b.top4top.io/p_3291qwfqu0.jpg",
   "keywords": ["subzero-bot"],
@@ -15,20 +15,20 @@
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
-      "required": false,
+      "required": true,
       "value": "https://b.top4top.io/p_3291qwfqu0.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
-      "required": false,
+      "required": true,
       "value": "> [❄️] Joshuamambo1 Is at HALSTED Online ⚡"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "%"
     },
     
     "MODE": {
@@ -54,7 +54,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -67,38 +67,38 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": false"
     }, 
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*SUBZERO VIEWED YOUR STATUS 🧸*"
+      "required": false,
+      "value": "*MamboKing01 VIEWED YOUR STATUS 🧸*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "ᴍʀ ғʀᴀɴᴋ ᴏғᴄ"
+      "required": true,
+      "value": "Joshking01"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "263719647303"
+      "required": true,
+      "value": "263716729222"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
-      "value": "*『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』*"
+      "required": true,
+      "value": "*『 JoshKing01 𝐌𝐃 』*"
 
       }, 
 
@@ -112,7 +112,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
